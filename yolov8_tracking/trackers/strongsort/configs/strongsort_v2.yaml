@@ -1,0 +1,12 @@
+strongsort:
+  ecc: true
+  ema_alpha: 0.8962157769329083
+  max_age: 10
+  max_dist: 0.05
+  # max_iou_dist: 0.5431835667667874
+  max_iou_dist: 0.7
+  max_unmatched_preds: 0
+  mc_lambda: 0.995
+  n_init: 3
+  nn_budget: 50
+  conf_thres: 0.5122620708221085

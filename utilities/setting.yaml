@@ -1,0 +1,5 @@
+ACCESS_KEY: 
+SECRET_KEY: 
+BUCKET_NAME: #abcxyz
+UPLOAD_BUCKET: #123456
+PATH: downloads/

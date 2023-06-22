@@ -7,8 +7,6 @@ script_dir = os.path.dirname(__file__)
 with open(os.path.join(script_dir,"setting.yaml"), "r") as f:
     config = yaml.load(f, Loader=yaml.FullLoader)
 #provided Access Credentialsaccess_key
-# access_key = "AKIA2SHQJEZHPPEYNT6N"
-# secret_key = "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"
 # access_key = config['ACCESS_KEY']
 # secret_key = config['SECRET_KEY']
 BUCKET_NAME = config['BUCKET_NAME']
